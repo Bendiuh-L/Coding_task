@@ -1,0 +1,394 @@
+country,rating_count,center1label,center2label,neighbourhood,price,city,stars,ratingta,ratingta_count,hotel_id,weekend,distance,accommodation_type,nnights,rating
+Austria,36.0,City centre,Donauturm,17. Hernals,81,Vienna,4.0,4.5,216.0,21894,0,2.7,Apartment,1,4.4
+Austria,189.0,City centre,Donauturm,17. Hernals,81,Vienna,4.0,3.5,708.0,21897,0,1.7,Hotel,1,3.9
+Austria,53.0,City centre,Donauturm,Alsergrund,85,Vienna,4.0,3.5,629.0,21901,0,1.4,Hotel,1,3.7
+Austria,55.0,City centre,Donauturm,Alsergrund,83,Vienna,3.0,4.0,52.0,21902,0,1.7,Hotel,1,4.0
+Austria,33.0,City centre,Donauturm,Alsergrund,82,Vienna,4.0,3.5,219.0,21903,0,1.2,Hotel,1,3.9
+Austria,25.0,City centre,Donauturm,Alsergrund,229,Vienna,5.0,4.5,27.0,21904,0,0.9,Apartment,1,4.8
+Austria,57.0,City centre,Donauturm,Alsergrund,103,Vienna,4.0,3.5,251.0,21906,0,0.9,Hotel,1,3.9
+Austria,161.0,City centre,Donauturm,Alsergrund,150,Vienna,4.0,4.5,617.0,21907,0,1.0,Hotel,1,4.6
+Austria,50.0,City centre,Donauturm,Alsergrund,80,Vienna,2.0,3.5,146.0,21908,0,0.7,Hotel,1,3.5
+Austria,203.0,City centre,Donauturm,Alsergrund,60,Vienna,4.0,4.0,359.0,21912,0,1.1,Hotel,1,4.1
+Austria,251.0,City centre,Donauturm,Alsergrund,128,Vienna,4.0,4.0,829.0,21913,0,0.8,Hotel,1,4.0
+Austria,142.0,City centre,Donauturm,Alsergrund,100,Vienna,4.0,4.0,55.0,21914,0,1.0,Apartment,1,4.5
+Austria,8.0,City centre,Donauturm,Alsergrund,143,Vienna,2.0,,,21915,0,1.2,Apartment,1,3.7
+Austria,18.0,City centre,Donauturm,Alsergrund,85,Vienna,4.0,4.0,62.0,21917,0,1.7,Hotel,1,4.1
+Austria,20.0,City centre,Donauturm,Alsergrund,77,Vienna,3.0,3.5,97.0,21918,0,0.9,Hotel,1,3.7
+Austria,77.0,City centre,Donauturm,Alsergrund,78,Vienna,3.0,3.5,120.0,21919,0,0.8,Hotel,1,3.9
+Austria,76.0,City centre,Donauturm,Alsergrund,78,Vienna,3.0,3.5,161.0,21920,0,0.9,Hotel,1,4.0
+Austria,5.0,City centre,Donauturm,Donaustadt,158,Vienna,3.0,4.5,72.0,21922,0,3.4,Apartment,1,4.8
+Austria,77.0,City centre,Donauturm,Donaustadt,77,Vienna,3.0,4.0,158.0,21924,0,4.2,Hotel,1,3.9
+Austria,193.0,City centre,Donauturm,Donaustadt,77,Vienna,3.0,3.0,91.0,21925,0,3.9,Hotel,1,2.7
+Austria,94.0,City centre,Donauturm,Donaustadt,95,Vienna,4.0,4.0,228.0,21926,0,3.6,Hotel,1,4.3
+Austria,1.0,City centre,Donauturm,Donaustadt,156,Vienna,3.0,,,21927,0,3.8,Apartment,1,3.0
+Austria,5.0,City centre,Donauturm,Donaustadt,145,Vienna,3.0,4.5,205.0,21928,0,3.5,Bed and breakfast,1,3.5
+Austria,178.0,City centre,Donauturm,Donaustadt,208,Vienna,4.0,4.0,1085.0,21930,0,2.9,Hotel,1,4.1
+Austria,330.0,City centre,Donauturm,Donaustadt,87,Vienna,3.0,3.5,423.0,21933,0,3.4,Hotel,1,3.7
+Austria,6.0,City centre,Donauturm,Favoriten,131,Vienna,2.0,,,21934,0,2.3,Apartment,1,3.5
+Austria,194.0,City centre,Donauturm,Favoriten,54,Vienna,3.0,4.0,522.0,21935,0,2.0,Hotel,1,3.5
+Austria,9.0,City centre,Donauturm,Favoriten,139,Vienna,2.0,3.0,17.0,21936,0,2.4,Apartment,1,3.0
+Austria,3.0,City centre,Donauturm,Favoriten,184,Vienna,2.0,,,21937,0,2.8,Apartment,1,3.2
+Austria,1.0,City centre,Donauturm,Favoriten,127,Vienna,3.0,,,21938,0,2.9,Apartment,1,1.0
+Austria,441.0,City centre,Donauturm,Favoriten,99,Vienna,3.5,4.5,630.0,21940,0,1.7,Hotel,1,4.4
+Austria,1122.0,City centre,Donauturm,Favoriten,75,Vienna,3.5,4.5,573.0,21941,0,1.7,Hotel,1,4.4
+Austria,362.0,City centre,Donauturm,Favoriten,76,Vienna,3.0,4.0,269.0,21943,0,2.1,Hotel,1,4.4
+Austria,2.0,City centre,Donauturm,Favoriten,130,Vienna,2.0,,,21945,0,2.5,Apartment,1,3.0
+Austria,525.0,City centre,Donauturm,Favoriten,91,Vienna,4.0,4.5,741.0,21946,0,1.9,Hotel,1,4.5
+Austria,1.0,City centre,Donauturm,Favoriten,135,Vienna,2.0,,,21947,0,2.4,Apartment,1,3.0
+Austria,113.0,City centre,Donauturm,Favoriten,56,Vienna,2.0,3.0,183.0,21948,0,2.0,Hotel,1,2.0
+Austria,71.0,City centre,Donauturm,Favoriten,27,Vienna,2.0,3.5,216.0,21949,0,2.7,Hostel,1,3.7
+Austria,1.0,City centre,Donauturm,Favoriten,88,Vienna,3.0,,,21950,0,2.3,Apartment,1,3.0
+Austria,22.0,City centre,Donauturm,Favoriten,133,Vienna,2.0,,,21951,0,2.5,Apartment,1,3.5
+Austria,366.0,City centre,Donauturm,Favoriten,33,Vienna,2.0,3.5,491.0,21956,0,1.8,Hotel,1,3.4
+Austria,821.0,City centre,Donauturm,Favoriten,71,Vienna,4.0,4.0,31.0,21959,0,1.7,Hotel,1,4.0
+Austria,16.0,City centre,Donauturm,Favoriten,90,Vienna,3.5,,,21960,0,2.7,Apartment,1,3.5
+Austria,23.0,City centre,Donauturm,Favoriten,84,Vienna,4.0,,,21962,0,1.9,Apartment,1,4.1
+Austria,38.0,City centre,Donauturm,Favoriten,63,Vienna,3.0,,,21963,0,2.3,Guest House,1,4.3
+Austria,366.0,City centre,Donauturm,Fischamend,59,Vienna,3.0,2.5,243.0,21964,0,13.0,Hotel,1,3.0
+Austria,77.0,City centre,Donauturm,Graben,113,Vienna,3.0,4.0,259.0,21965,0,0.2,Hotel,1,4.4
+Austria,27.0,City centre,Donauturm,Graben,218,Vienna,4.5,,,21966,0,0.1,Apartment,1,4.1
+Austria,144.0,City centre,Donauturm,Graben,299,Vienna,5.0,4.5,702.0,21967,0,0.1,Hotel,1,4.5
+Austria,184.0,City centre,Donauturm,Innere Stadt,156,Vienna,3.0,4.5,1347.0,21968,0,0.3,Hotel,1,4.5
+Austria,78.0,City centre,Donauturm,Innere Stadt,513,Vienna,5.0,5.0,1126.0,21969,0,0.3,Hotel,1,4.8
+Austria,319.0,City centre,Donauturm,Innere Stadt,133,Vienna,4.0,4.0,466.0,21970,0,0.3,Hotel,1,4.3
+Austria,73.0,City centre,Donauturm,Innere Stadt,123,Vienna,4.0,3.5,47.0,21971,0,0.5,Hotel,1,4.1
+Austria,81.0,City centre,Donauturm,Innere Stadt,219,Vienna,4.0,4.5,392.0,21972,0,0.3,Hotel,1,4.5
+Austria,271.0,City centre,Donauturm,Innere Stadt,152,Vienna,4.0,4.0,261.0,21973,0,0.3,Hotel,1,4.3
+Austria,211.0,City centre,Donauturm,Innere Stadt,115,Vienna,4.0,4.5,211.0,21975,0,0.1,Hotel,1,4.3
+Austria,5.0,City centre,Donauturm,Innere Stadt,806,Vienna,5.0,4.5,114.0,21976,0,0.3,Hotel,1,4.5
+Austria,316.0,City centre,Donauturm,Innere Stadt,138,Vienna,4.0,4.5,463.0,21977,0,0.2,Hotel,1,4.5
+Austria,28.0,City centre,Donauturm,Innere Stadt,95,Vienna,3.0,,,21979,0,0.4,Apartment,1,3.7
+Austria,336.0,City centre,Donauturm,Innere Stadt,146,Vienna,4.0,4.0,714.0,21980,0,0.1,Hotel,1,4.4
+Austria,83.0,City centre,Donauturm,Innere Stadt,103,Vienna,3.0,4.0,159.0,21981,0,0.7,Pension,1,4.0
+Austria,88.0,City centre,Donauturm,Innere Stadt,98,Vienna,3.0,3.5,66.0,21984,0,0.5,Hotel,1,3.7
+Austria,140.0,City centre,Donauturm,Innere Stadt,121,Vienna,3.5,4.5,557.0,21985,0,0.3,Hotel,1,4.5
+Austria,391.0,City centre,Donauturm,Innere Stadt,149,Vienna,4.0,4.0,1516.0,21986,0,0.2,Hotel,1,4.0
+Austria,320.0,City centre,Donauturm,Innere Stadt,120,Vienna,3.0,3.5,515.0,21987,0,0.3,Hotel,1,3.9
+Austria,21.0,City centre,Donauturm,Innere Stadt,157,Vienna,3.0,4.5,146.0,21988,0,0.4,Hotel,1,4.4
+Austria,193.0,City centre,Donauturm,Innere Stadt,261,Vienna,5.0,5.0,945.0,21989,0,0.3,Hotel,1,4.8
+Austria,75.0,City centre,Donauturm,Innere Stadt,145,Vienna,3.5,4.0,48.0,21990,0,0.7,Apartment,1,4.1
+Austria,35.0,City centre,Donauturm,Innere Stadt,275,Vienna,4.0,4.0,16.0,21991,0,0.2,Apartment,1,4.3
+Austria,505.0,City centre,Donauturm,Innere Stadt,112,Vienna,4.0,4.0,607.0,21995,0,0.2,Hotel,1,4.0
+Austria,386.0,City centre,Donauturm,Innere Stadt,138,Vienna,4.0,4.0,273.0,21996,0,0.3,Hotel,1,4.3
+Austria,109.0,City centre,Donauturm,Innere Stadt,84,Vienna,3.0,4.0,171.0,21997,0,0.4,Pension,1,4.0
+Austria,626.0,City centre,Donauturm,Innere Stadt,199,Vienna,4.5,4.5,3171.0,21998,0,0.3,Hotel,1,4.5
+Austria,334.0,City centre,Donauturm,Innere Stadt,203,Vienna,5.0,4.5,917.0,21999,0,0.3,Hotel,1,4.4
+Austria,11.0,City centre,Donauturm,Innere Stadt,168,Vienna,3.5,3.5,4.0,22005,0,0.2,Apartment,1,4.0
+Austria,150.0,City centre,Donauturm,Innere Stadt,544,Vienna,5.0,4.5,1178.0,22006,0,0.5,Hotel,1,4.8
+Austria,531.0,City centre,Donauturm,Innere Stadt,252,Vienna,5.0,4.5,1050.0,22007,0,0.5,Hotel,1,4.6
+Austria,253.0,City centre,Donauturm,Innere Stadt,323,Vienna,5.0,4.5,1168.0,22008,0,0.5,Hotel,1,4.5
+Austria,47.0,City centre,Donauturm,Innere Stadt,158,Vienna,3.0,4.0,232.0,22009,0,0.3,Hotel,1,4.3
+Austria,19.0,City centre,Donauturm,Innere Stadt,156,Vienna,3.5,,,22010,0,0.2,Apartment,1,4.0
+Austria,124.0,City centre,Donauturm,Innere Stadt,218,Vienna,4.0,5.0,1112.0,22011,0,0.2,Hotel,1,4.6
+Austria,115.0,City centre,Donauturm,Innere Stadt,218,Vienna,4.0,4.5,475.0,22012,0,0.1,Hotel,1,4.5
+Austria,110.0,City centre,Donauturm,Innere Stadt,135,Vienna,3.0,3.5,162.0,22013,0,0.3,Hotel,1,3.9
+Austria,16.0,City centre,Donauturm,Innere Stadt,219,Vienna,2.0,,,22014,0,0.6,Apartment,1,4.0
+Austria,467.0,City centre,Donauturm,Innere Stadt,179,Vienna,4.0,4.5,423.0,22016,0,0.5,Hotel,1,4.4
+Austria,650.0,City centre,Donauturm,Innere Stadt,157,Vienna,4.0,4.5,1380.0,22018,0,0.7,Hotel,1,4.5
+Austria,95.0,City centre,Donauturm,Innere Stadt,146,Vienna,4.0,4.5,770.0,22019,0,0.3,Hotel,1,4.5
+Austria,564.0,City centre,Donauturm,Innere Stadt,200,Vienna,5.0,4.0,1850.0,22020,0,0.4,Hotel,1,4.3
+Austria,168.0,City centre,Donauturm,Innere Stadt,157,Vienna,4.0,4.0,392.0,22021,0,0.1,Hotel,1,4.1
+Austria,175.0,City centre,Donauturm,Innere Stadt,108,Vienna,3.0,3.5,234.0,22023,0,0.3,Hotel,1,3.5
+Austria,426.0,City centre,Donauturm,Innere Stadt,127,Vienna,4.0,4.0,840.0,22026,0,0.8,Hotel,1,4.0
+Austria,1.0,City centre,Donauturm,Innere Stadt,114,Vienna,3.0,,,22027,0,0.7,Guest House,1,3.0
+Austria,148.0,City centre,Donauturm,Innere Stadt,163,Vienna,4.0,4.0,388.0,22028,0,0.4,Hotel,1,4.1
+Austria,163.0,City centre,Donauturm,Innere Stadt,116,Vienna,4.0,4.5,212.0,22029,0,0.2,Apart-hotel,1,4.5
+Austria,493.0,City centre,Donauturm,Innere Stadt,226,Vienna,5.0,4.5,2985.0,22030,0,0.5,Hotel,1,4.3
+Austria,56.0,City centre,Donauturm,Innere Stadt,231,Vienna,4.0,4.5,282.0,22031,0,0.1,Hotel,1,4.4
+Austria,247.0,City centre,Donauturm,Innere Stadt,116,Vienna,4.0,4.5,1274.0,22032,0,0.4,Hotel,1,4.4
+Austria,169.0,City centre,Donauturm,Innere Stadt,76,Vienna,3.0,4.0,167.0,22033,0,0.4,Guest House,1,3.7
+Austria,1.0,City centre,Donauturm,Innere Stadt,135,Vienna,3.5,,,22034,0,0.3,Apartment,1,1.0
+Austria,599.0,City centre,Donauturm,Innere Stadt,184,Vienna,5.0,4.5,1330.0,22035,0,0.6,Hotel,1,4.5
+Austria,258.0,City centre,Donauturm,Innere Stadt,384,Vienna,5.0,5.0,1207.0,22036,0,0.6,Hotel,1,4.8
+Austria,703.0,City centre,Donauturm,Innere Stadt,166,Vienna,4.0,4.0,1592.0,22037,0,0.6,Hotel,1,4.3
+Austria,230.0,City centre,Donauturm,Innere Stadt,187,Vienna,5.0,4.0,468.0,22038,0,0.5,Hotel,1,4.1
+Austria,112.0,City centre,Donauturm,Innere Stadt,371,Vienna,5.0,4.5,1319.0,22039,0,0.5,Hotel,1,4.6
+Austria,278.0,City centre,Donauturm,Innere Stadt,156,Vienna,4.0,4.5,272.0,22040,0,0.1,Pension,1,4.4
+Austria,81.0,City centre,Donauturm,Innere Stadt,169,Vienna,4.0,4.5,561.0,22042,0,0.3,Hotel,1,4.5
+Austria,15.0,City centre,Donauturm,Innere Stadt,266,Vienna,5.0,,,22044,0,0.3,Apartment,1,4.5
+Austria,203.0,City centre,Donauturm,Innere Stadt,131,Vienna,3.0,4.0,338.0,22045,0,0.1,Pension,1,3.9
+Austria,150.0,City centre,Donauturm,Innere Stadt,168,Vienna,4.0,4.5,154.0,22046,0,0.2,Apartment,1,4.6
+Austria,404.0,City centre,Donauturm,Innere Stadt,242,Vienna,4.0,4.5,2165.0,22050,0,0.0,Hotel,1,4.8
+Austria,123.0,City centre,Donauturm,Innere Stadt,223,Vienna,4.0,3.5,276.0,22051,0,0.5,Hotel,1,3.5
+Austria,653.0,City centre,Donauturm,Innere Stadt,149,Vienna,4.0,4.5,930.0,22052,0,0.3,Hotel,1,4.4
+Austria,388.0,City centre,Donauturm,Innere Stadt,114,Vienna,4.0,4.0,836.0,22054,0,0.5,Hotel,1,4.0
+Austria,1.0,City centre,Donauturm,Innere Stadt,253,Vienna,3.5,,,22055,0,0.1,Apartment,1,2.0
+Austria,230.0,City centre,Donauturm,Innere Stadt,163,Vienna,4.0,4.5,203.0,22057,0,0.3,Apart-hotel,1,4.4
+Austria,69.0,City centre,Donauturm,Innere Stadt,116,Vienna,3.0,4.5,774.0,22059,0,0.4,Pension,1,4.1
+Austria,34.0,City centre,Donauturm,Innere Stadt,139,Vienna,4.0,3.5,54.0,22061,0,0.2,Hotel,1,3.5
+Austria,6.0,City centre,Donauturm,Innere Stadt,91,Vienna,3.5,,,22063,0,0.2,Apartment,1,3.2
+Austria,102.0,City centre,Donauturm,Josefstadt,79,Vienna,3.0,3.5,127.0,22064,0,1.4,Hotel,1,3.5
+Austria,65.0,City centre,Donauturm,Josefstadt,66,Vienna,4.0,3.5,85.0,22065,0,1.1,Pension,1,3.7
+Austria,9.0,City centre,Donauturm,Josefstadt,100,Vienna,3.0,4.0,17.0,22066,0,1.1,Apartment,1,3.0
+Austria,11.0,City centre,Donauturm,Josefstadt,75,Vienna,2.5,3.5,33.0,22067,0,1.3,Pension,1,3.0
+Austria,51.0,City centre,Donauturm,Josefstadt,73,Vienna,2.0,3.0,87.0,22068,0,1.2,Pension,1,3.5
+Austria,298.0,City centre,Donauturm,Josefstadt,127,Vienna,5.0,4.0,876.0,22069,0,0.8,Hotel,1,4.1
+Austria,354.0,City centre,Donauturm,Josefstadt,110,Vienna,3.0,4.0,419.0,22071,0,0.9,Hotel,1,4.1
+Austria,92.0,City centre,Donauturm,Josefstadt,88,Vienna,3.0,4.0,509.0,22072,0,0.9,Hotel,1,4.4
+Austria,66.0,City centre,Donauturm,Josefstadt,59,Vienna,3.0,4.0,88.0,22073,0,1.2,Pension,1,3.7
+Austria,128.0,City centre,Donauturm,Josefstadt,59,Vienna,3.0,4.0,967.0,22075,0,1.6,Hotel,1,3.9
+Austria,530.0,City centre,Donauturm,Josefstadt,119,Vienna,4.0,4.0,1358.0,22076,0,0.9,Hotel,1,4.0
+Austria,342.0,City centre,Donauturm,Josefstadt,152,Vienna,4.0,4.0,1461.0,22077,0,0.9,Hotel,1,4.3
+Austria,194.0,City centre,Donauturm,Josefstadt,102,Vienna,4.0,4.0,346.0,22078,0,1.0,Hotel,1,4.0
+Austria,1.0,City centre,Donauturm,Josefstadt,363,Vienna,3.5,,,22079,0,1.5,Apartment,1,5.0
+Austria,63.0,City centre,Donauturm,Josefstadt,54,Vienna,3.0,3.0,85.0,22080,0,1.1,Hotel,1,3.2
+Austria,67.0,City centre,Donauturm,Josefstadt,101,Vienna,3.0,4.0,44.0,22081,0,1.1,Apartment,1,4.0
+Austria,84.0,City centre,Donauturm,Josefstadt,75,Vienna,2.0,4.5,304.0,22082,0,0.9,Hotel,1,4.0
+Austria,30.0,City centre,Donauturm,Josefstadt,73,Vienna,2.0,4.0,103.0,22083,0,0.9,Hotel,1,3.9
+Austria,169.0,City centre,Donauturm,Josefstadt,94,Vienna,3.0,4.0,452.0,22084,0,1.0,Hotel,1,4.1
+Austria,65.0,City centre,Donauturm,Josefstadt,64,Vienna,4.0,4.0,251.0,22085,0,1.1,Pension,1,3.5
+Austria,91.0,City centre,Donauturm,Josefstadt,81,Vienna,3.5,3.5,260.0,22086,0,1.0,Apart-hotel,1,3.7
+Austria,1.0,City centre,Donauturm,Josefstadt,162,Vienna,3.0,,,22087,0,1.6,Apartment,1,4.0
+Austria,765.0,City centre,Donauturm,Josefstadt,115,Vienna,4.0,4.5,2150.0,22088,0,0.9,Hotel,1,4.5
+Austria,80.0,City centre,Donauturm,Josefstadt,101,Vienna,4.0,4.5,90.0,22089,0,1.2,Apartment,1,4.4
+Austria,43.0,City centre,Donauturm,Josefstadt,68,Vienna,3.0,3.5,182.0,22090,0,0.9,Hotel,1,3.7
+Austria,78.0,City centre,Donauturm,Kaerntner Strasse,354,Vienna,5.0,4.5,1504.0,22092,0,0.4,Hotel,1,4.5
+Austria,184.0,City centre,Donauturm,Kaerntner Strasse,153,Vienna,4.0,4.0,700.0,22093,0,0.2,Hotel,1,4.1
+Austria,276.0,City centre,Donauturm,Kaerntner Strasse,202,Vienna,5.0,4.0,615.0,22094,0,0.2,Hotel,1,4.3
+Austria,313.0,City centre,Donauturm,Kaerntner Strasse,169,Vienna,4.0,4.0,760.0,22095,0,0.3,Hotel,1,4.1
+Austria,323.0,City centre,Donauturm,Kaerntner Strasse,182,Vienna,4.0,4.5,327.0,22097,0,0.5,Hotel,1,4.5
+Austria,90.0,City centre,Donauturm,Kaerntner Strasse,138,Vienna,4.0,4.5,408.0,22099,0,0.2,Pension,1,4.1
+Austria,140.0,City centre,Donauturm,Kaerntner Strasse,527,Vienna,5.0,5.0,1748.0,22100,0,0.4,Hotel,1,4.8
+Austria,512.0,City centre,Donauturm,Kaerntner Strasse,142,Vienna,4.0,4.0,837.0,22101,0,0.1,Hotel,1,4.4
+Austria,340.0,City centre,Donauturm,Landstrasse,110,Vienna,4.0,4.5,2718.0,22104,0,0.6,Hotel,1,4.3
+Austria,34.0,City centre,Donauturm,Landstrasse,82,Vienna,3.5,4.0,25.0,22107,0,1.9,Apartment,1,4.1
+Austria,26.0,City centre,Donauturm,Landstrasse,91,Vienna,3.5,,,22108,0,0.9,Apartment,1,2.5
+Austria,97.0,City centre,Donauturm,Landstrasse,83,Vienna,3.5,4.5,35.0,22110,0,1.7,Apartment,1,4.4
+Austria,11.0,City centre,Donauturm,Landstrasse,95,Vienna,4.5,,,22111,0,1.8,Apartment,1,4.0
+Austria,15.0,City centre,Donauturm,Landstrasse,131,Vienna,3.0,,,22112,0,1.4,Apartment,1,3.7
+Austria,84.0,City centre,Donauturm,Landstrasse,162,Vienna,4.0,5.0,610.0,22113,0,1.1,Bed and breakfast,1,4.8
+Austria,152.0,City centre,Donauturm,Landstrasse,177,Vienna,5.0,4.0,2015.0,22114,0,0.5,Hotel,1,4.3
+Austria,3.0,City centre,Donauturm,Landstrasse,122,Vienna,2.0,,,22115,0,1.5,Apartment,1,4.0
+Austria,25.0,City centre,Donauturm,Landstrasse,79,Vienna,3.0,,,22116,0,1.6,Apartment,1,2.0
+Austria,181.0,City centre,Donauturm,Landstrasse,82,Vienna,4.0,4.0,395.0,22117,0,1.4,Hotel,1,4.0
+Austria,359.0,City centre,Donauturm,Landstrasse,82,Vienna,4.0,4.0,717.0,22118,0,1.7,Hotel,1,4.1
+Austria,160.0,City centre,Donauturm,Landstrasse,66,Vienna,3.0,3.5,203.0,22119,0,1.8,Hotel,1,3.9
+Austria,303.0,City centre,Donauturm,Landstrasse,169,Vienna,4.0,4.0,1208.0,22120,0,0.8,Hotel,1,4.1
+Austria,254.0,City centre,Donauturm,Landstrasse,59,Vienna,3.0,3.5,189.0,22122,0,0.8,Guest House,1,3.7
+Austria,173.0,City centre,Donauturm,Landstrasse,109,Vienna,4.0,4.0,666.0,22123,0,1.5,Hotel,1,4.1
+Austria,114.0,City centre,Donauturm,Landstrasse,104,Vienna,3.0,3.0,72.0,22125,0,0.7,Hotel,1,3.4
+Austria,249.0,City centre,Donauturm,Landstrasse,145,Vienna,3.5,4.5,730.0,22126,0,0.9,Hotel,1,4.3
+Austria,1.0,City centre,Donauturm,Landstrasse,58,Vienna,3.5,,,22127,0,1.4,Apartment,1,2.0
+Austria,6.0,City centre,Donauturm,Landstrasse,107,Vienna,4.0,,,22129,0,1.3,Vacation home Condo,1,4.3
+Austria,13.0,City centre,Donauturm,Landstrasse,85,Vienna,3.0,3.5,183.0,22130,0,0.8,Hotel,1,3.5
+Austria,18.0,City centre,Donauturm,Landstrasse,184,Vienna,4.0,4.0,5.0,22131,0,0.7,Apartment,1,4.5
+Austria,497.0,City centre,Donauturm,Landstrasse,137,Vienna,4.5,4.0,1060.0,22132,0,1.0,Hotel,1,4.1
+Austria,503.0,City centre,Donauturm,Landstrasse,116,Vienna,4.5,4.5,1591.0,22134,0,1.1,Hotel,1,4.5
+Austria,70.0,City centre,Donauturm,Landstrasse,157,Vienna,2.0,3.5,52.0,22135,0,1.1,Apartment,1,3.7
+Austria,109.0,City centre,Donauturm,Landstrasse,110,Vienna,3.0,3.5,529.0,22136,0,1.3,Hotel,1,3.7
+Austria,171.0,City centre,Donauturm,Landstrasse,134,Vienna,4.0,4.5,343.0,22138,0,0.6,Hotel,1,4.3
+Austria,79.0,City centre,Donauturm,Landstrasse,79,Vienna,4.0,3.5,77.0,22140,0,1.3,Hotel,1,3.7
+Austria,13.0,City centre,Donauturm,Landstrasse,143,Vienna,3.0,,,22141,0,1.4,Apartment,1,4.5
+Austria,281.0,City centre,Donauturm,Landstrasse,132,Vienna,4.0,4.0,1403.0,22142,0,1.0,Hotel,1,4.1
+Austria,108.0,City centre,Donauturm,Landstrasse,68,Vienna,4.0,4.0,162.0,22143,0,1.3,Apartment,1,4.0
+Austria,267.0,City centre,Donauturm,Leopoldstadt,128,Vienna,4.0,4.0,1437.0,22144,0,0.6,Hotel,1,4.1
+Austria,183.0,City centre,Donauturm,Leopoldstadt,99,Vienna,3.0,4.5,491.0,22145,0,1.5,Hotel,1,4.5
+Austria,5.0,City centre,Donauturm,Leopoldstadt,149,Vienna,2.0,,,22148,0,0.9,Apartment,1,2.2
+Austria,136.0,City centre,Donauturm,Leopoldstadt,86,Vienna,4.0,3.5,326.0,22149,0,1.8,Hotel,1,4.0
+Austria,11.0,City centre,Donauturm,Leopoldstadt,155,Vienna,3.0,4.0,28.0,22150,0,1.9,Apartment,1,4.1
+Austria,242.0,City centre,Donauturm,Leopoldstadt,63,Vienna,3.0,3.0,183.0,22152,0,1.0,Hotel,1,3.4
+Austria,81.0,City centre,Donauturm,Leopoldstadt,157,Vienna,2.0,3.5,12.0,22153,0,0.6,Apartment,1,3.7
+Austria,16.0,City centre,Donauturm,Leopoldstadt,134,Vienna,3.5,4.5,70.0,22155,0,0.6,Hotel,1,4.0
+Austria,6.0,City centre,Donauturm,Leopoldstadt,141,Vienna,5.0,,,22156,0,1.7,Apartment,1,4.3
+Austria,122.0,City centre,Donauturm,Leopoldstadt,79,Vienna,3.0,4.0,290.0,22157,0,0.9,Hotel,1,3.7
+Austria,250.0,City centre,Donauturm,Leopoldstadt,138,Vienna,4.0,4.0,1023.0,22158,0,0.5,Hotel,1,4.0
+Austria,603.0,City centre,Donauturm,Leopoldstadt,113,Vienna,4.0,4.5,1516.0,22159,0,1.0,Hotel,1,4.5
+Austria,25.0,City centre,Donauturm,Leopoldstadt,171,Vienna,3.0,,,22160,0,1.5,Apartment,1,3.5
+Austria,52.0,City centre,Donauturm,Leopoldstadt,56,Vienna,2.0,4.0,1666.0,22161,0,1.5,Hotel,1,3.5
+Austria,152.0,City centre,Donauturm,Leopoldstadt,84,Vienna,3.0,4.0,1249.0,22162,0,1.5,Hotel,1,3.9
+Austria,293.0,City centre,Donauturm,Leopoldstadt,72,Vienna,2.0,4.5,302.0,22163,0,1.1,Hotel,1,4.0
+Austria,1.0,City centre,Donauturm,Leopoldstadt,587,Vienna,5.0,5.0,7.0,22164,0,0.7,Hotel,1,1.0
+Austria,84.0,City centre,Donauturm,Leopoldstadt,68,Vienna,3.0,4.0,129.0,22165,0,0.9,Hotel,1,4.0
+Austria,208.0,City centre,Donauturm,Leopoldstadt,102,Vienna,3.5,4.0,281.0,22166,0,1.5,Hotel,1,3.9
+Austria,29.0,City centre,Donauturm,Leopoldstadt,96,Vienna,3.0,3.5,7.0,22167,0,1.5,Apartment,1,3.4
+Austria,57.0,City centre,Donauturm,Leopoldstadt,81,Vienna,1.0,3.5,141.0,22168,0,0.9,Hotel,1,3.7
+Austria,267.0,City centre,Donauturm,Leopoldstadt,82,Vienna,3.0,4.0,727.0,22169,0,1.6,Hotel,1,4.1
+Austria,275.0,City centre,Donauturm,Leopoldstadt,66,Vienna,3.0,4.0,407.0,22170,0,1.1,Hotel,1,4.0
+Austria,23.0,City centre,Donauturm,Leopoldstadt,87,Vienna,3.0,4.0,51.0,22171,0,0.8,Apartment,1,3.9
+Austria,240.0,City centre,Donauturm,Leopoldstadt,240,Vienna,5.0,4.5,2098.0,22175,0,0.4,Hotel,1,4.5
+Austria,374.0,City centre,Donauturm,Leopoldstadt,113,Vienna,3.0,4.5,1686.0,22176,0,0.8,Hotel,1,4.5
+Austria,468.0,City centre,Donauturm,Leopoldstadt,106,Vienna,3.0,4.5,1449.0,22177,0,1.0,Hotel,1,4.5
+Austria,422.0,City centre,Donauturm,Leopoldstadt,89,Vienna,3.0,4.0,1580.0,22179,0,1.6,Hotel,1,4.1
+Austria,307.0,City centre,Donauturm,Leopoldstadt,61,Vienna,2.0,4.0,1027.0,22180,0,0.9,Hotel,1,4.0
+Austria,2.0,City centre,Donauturm,Leopoldstadt,92,Vienna,3.5,,,22181,0,0.8,Apartment,1,4.5
+Austria,527.0,City centre,Donauturm,Leopoldstadt,106,Vienna,4.0,4.0,739.0,22182,0,0.8,Hotel,1,4.1
+Austria,637.0,City centre,Donauturm,Leopoldstadt,100,Vienna,4.0,4.0,584.0,22183,0,0.8,Hotel,1,4.0
+Austria,461.0,City centre,Donauturm,Leopoldstadt,75,Vienna,3.0,4.0,827.0,22184,0,0.7,Hotel,1,4.1
+Austria,3.0,City centre,Donauturm,Leopoldstadt,84,Vienna,3.0,4.0,92.0,22185,0,0.8,Hotel,1,2.2
+Austria,104.0,City centre,Donauturm,Leopoldstadt,151,Vienna,4.0,4.5,1272.0,22187,0,0.5,Hotel,1,4.6
+Austria,90.0,City centre,Donauturm,Leopoldstadt,87,Vienna,3.0,3.5,314.0,22188,0,0.9,Hotel,1,3.5
+Austria,75.0,City centre,Donauturm,Leopoldstadt,117,Vienna,4.0,4.5,836.0,22189,0,0.5,Hotel,1,4.4
+Austria,139.0,City centre,Donauturm,Leopoldstadt,120,Vienna,4.0,4.0,807.0,22190,0,1.9,Hotel,1,4.5
+Austria,41.0,City centre,Donauturm,Leopoldstadt,68,Vienna,2.5,4.0,85.0,22192,0,0.9,Hotel,1,3.9
+Austria,122.0,City centre,Donauturm,Margareten,383,Vienna,3.0,4.0,382.0,22193,0,1.9,Hotel,1,4.0
+Austria,6.0,City centre,Donauturm,Margareten,160,Vienna,4.0,,,22194,0,1.6,Apartment,1,4.3
+Austria,137.0,City centre,Donauturm,Margareten,111,Vienna,4.5,4.5,659.0,22196,0,2.0,Hotel,1,4.5
+Austria,144.0,City centre,Donauturm,Margareten,174,Vienna,4.0,4.5,1650.0,22198,0,1.5,Hotel,1,4.3
+Austria,80.0,City centre,Donauturm,Margareten,63,Vienna,3.0,3.5,335.0,22199,0,2.0,Hotel,1,3.5
+Austria,11.0,City centre,Donauturm,Margareten,73,Vienna,3.0,,,22200,0,1.4,Apartment,1,4.3
+Austria,58.0,City centre,Donauturm,Margareten,100,Vienna,3.5,4.5,15.0,22201,0,1.5,Hotel,1,4.5
+Austria,303.0,City centre,Donauturm,Margareten,86,Vienna,4.0,3.5,1708.0,22203,0,1.4,Hotel,1,3.9
+Austria,82.0,City centre,Donauturm,Margareten,67,Vienna,3.0,4.0,909.0,22205,0,1.8,Hotel,1,4.0
+Austria,248.0,City centre,Donauturm,Margareten,129,Vienna,4.0,4.0,372.0,22206,0,1.3,Hotel,1,4.1
+Austria,151.0,City centre,Donauturm,Margareten,80,Vienna,3.0,4.0,161.0,22208,0,1.9,Apartment,1,4.1
+Austria,7.0,City centre,Donauturm,Margareten,131,Vienna,2.0,,,22209,0,1.9,Apartment,1,3.2
+Austria,2.0,City centre,Donauturm,Margareten,150,Vienna,3.5,,,22210,0,1.6,Apartment,1,5.0
+Austria,3.0,City centre,Donauturm,Mariahilf,159,Vienna,3.0,,,22211,0,1.1,Apartment,1,4.6
+Austria,85.0,City centre,Donauturm,Mariahilf,86,Vienna,3.0,4.0,383.0,22212,0,1.3,Hotel,1,4.0
+Austria,3.0,City centre,Donauturm,Mariahilf,96,Vienna,2.0,,,22213,0,0.9,Hotel,1,3.7
+Austria,258.0,City centre,Donauturm,Mariahilf,131,Vienna,4.0,4.0,682.0,22214,0,0.7,Hotel,1,4.1
+Austria,13.0,City centre,Donauturm,Mariahilf,103,Vienna,4.0,,,22215,0,2.0,Apartment,1,4.1
+Austria,95.0,City centre,Donauturm,Mariahilf,85,Vienna,2.0,4.0,618.0,22217,0,1.0,Hotel,1,4.0
+Austria,44.0,City centre,Donauturm,Mariahilf,80,Vienna,3.0,3.5,170.0,22218,0,1.4,Hotel,1,3.9
+Austria,125.0,City centre,Donauturm,Mariahilf,93,Vienna,4.0,4.0,410.0,22219,0,1.1,Hotel,1,4.0
+Austria,5.0,City centre,Donauturm,Mariahilf,81,Vienna,3.5,,,22221,0,1.8,Apartment,1,4.5
+Austria,161.0,City centre,Donauturm,Mariahilf,77,Vienna,3.0,4.0,2102.0,22222,0,1.9,Hotel,1,4.0
+Austria,210.0,City centre,Donauturm,Mariahilf,140,Vienna,4.0,5.0,1495.0,22223,0,0.8,Hotel,1,4.8
+Austria,264.0,City centre,Donauturm,Mariahilf,99,Vienna,4.0,4.0,1228.0,22224,0,1.0,Hotel,1,4.0
+Austria,49.0,City centre,Donauturm,Mariahilf,75,Vienna,4.0,4.0,151.0,22225,0,1.1,Pension,1,4.1
+Austria,162.0,City centre,Donauturm,Mariahilf,105,Vienna,4.0,4.5,716.0,22226,0,1.4,Hotel,1,4.4
+Austria,581.0,City centre,Donauturm,Mariahilf,100,Vienna,3.5,4.5,1414.0,22227,0,1.7,Hotel,1,4.5
+Austria,55.0,City centre,Donauturm,Mariahilf,89,Vienna,3.0,4.0,67.0,22228,0,1.0,Pension,1,3.7
+Austria,39.0,City centre,Donauturm,Mariahilf,82,Vienna,3.0,3.5,78.0,22229,0,1.1,Hotel,1,3.9
+Austria,484.0,City centre,Donauturm,Mariahilf,82,Vienna,4.0,4.0,1150.0,22230,0,1.8,Hotel,1,3.9
+Austria,10.0,City centre,Donauturm,Mariahilf,134,Vienna,2.0,,,22234,0,1.6,Apartment,1,3.7
+Austria,45.0,City centre,Donauturm,Mariahilf,87,Vienna,4.0,4.0,290.0,22235,0,1.9,Hotel,1,3.5
+Austria,98.0,City centre,Donauturm,Mariahilf,100,Vienna,4.0,3.5,372.0,22236,0,1.6,Hotel,1,3.7
+Austria,239.0,City centre,Donauturm,Mariahilf,84,Vienna,4.0,4.0,561.0,22237,0,1.6,Hotel,1,4.3
+Austria,170.0,City centre,Donauturm,Mariahilf,52,Vienna,2.0,4.0,112.0,22238,0,0.9,Hotel,1,3.7
+Austria,100.0,City centre,Donauturm,Neubau,98,Vienna,4.0,4.0,650.0,22239,0,0.8,Hotel,1,3.7
+Austria,310.0,City centre,Donauturm,Neubau,333,Vienna,5.0,5.0,1523.0,22240,0,0.7,Hotel,1,4.9
+Austria,305.0,City centre,Donauturm,Neubau,99,Vienna,3.0,4.0,1171.0,22241,0,1.8,Hotel,1,4.1
+Austria,105.0,City centre,Donauturm,Neubau,77,Vienna,3.0,4.0,98.0,22243,0,1.5,Bed and breakfast,1,4.0
+Austria,6.0,City centre,Donauturm,Neubau,160,Vienna,3.5,,,22244,0,1.6,Apartment,1,4.6
+Austria,1.0,City centre,Donauturm,Neubau,160,Vienna,3.5,,,22245,0,1.6,Apartment,1,5.0
+Austria,141.0,City centre,Donauturm,Neubau,76,Vienna,3.0,3.5,265.0,22246,0,1.6,Hotel,1,3.5
+Austria,14.0,City centre,Donauturm,Neubau,89,Vienna,3.0,4.0,36.0,22247,0,1.6,Bed and breakfast,1,4.4
+Austria,6.0,City centre,Donauturm,Neubau,113,Vienna,3.0,,,22248,0,0.8,Hotel,1,3.7
+Austria,328.0,City centre,Donauturm,Neubau,110,Vienna,4.0,4.5,2436.0,22249,0,0.9,Hotel,1,4.4
+Austria,123.0,City centre,Donauturm,Neubau,184,Vienna,4.0,4.5,2431.0,22250,0,1.0,Hotel,1,4.6
+Austria,181.0,City centre,Donauturm,Neubau,33,Vienna,2.0,3.5,308.0,22251,0,1.7,Hotel,1,3.2
+Austria,77.0,City centre,Donauturm,Neubau,1012,Vienna,3.0,4.0,364.0,22252,0,1.0,Hotel,1,4.3
+Austria,308.0,City centre,Donauturm,Neubau,99,Vienna,4.0,4.0,612.0,22253,0,1.7,Hotel,1,4.1
+Austria,54.0,City centre,Donauturm,Neubau,122,Vienna,3.0,4.0,143.0,22254,0,0.8,Hotel,1,3.9
+Austria,544.0,City centre,Donauturm,Neubau,122,Vienna,4.0,4.0,978.0,22255,0,1.7,Hotel,1,4.3
+Austria,359.0,City centre,Donauturm,Neubau,105,Vienna,4.0,4.0,816.0,22256,0,1.7,Hotel,1,4.0
+Austria,3.0,City centre,Donauturm,Neubau,98,Vienna,4.0,,,22257,0,1.7,Apartment,1,5.0
+Austria,98.0,City centre,Donauturm,Neubau,109,Vienna,4.0,4.0,582.0,22259,0,1.4,Hotel,1,4.0
+Austria,54.0,City centre,Donauturm,Neubau,105,Vienna,3.0,4.5,412.0,22260,0,1.2,Hotel,1,4.1
+Austria,22.0,City centre,Donauturm,Ottakring,133,Vienna,2.0,,,22265,0,2.0,Apartment,1,3.2
+Austria,4.0,City centre,Donauturm,Ottakring,133,Vienna,2.5,,,22266,0,2.3,Apartment,1,4.3
+Austria,69.0,City centre,Donauturm,Ottakring,52,Vienna,3.0,3.5,193.0,22268,0,3.1,Hotel,1,3.5
+Austria,17.0,City centre,Donauturm,Ottakring,134,Vienna,2.0,,,22269,0,1.8,Apartment,1,3.7
+Austria,83.0,City centre,Donauturm,Ottakring,80,Vienna,4.0,4.0,265.0,22271,0,4.1,Hotel,1,4.0
+Austria,36.0,City centre,Donauturm,Rudolfsheim-Funfhaus,91,Vienna,2.0,4.0,42.0,22272,0,2.9,Hotel,1,4.0
+Austria,153.0,City centre,Donauturm,Rudolfsheim-Funfhaus,47,Vienna,2.0,3.5,549.0,22274,0,1.9,Hostel,1,3.7
+Austria,136.0,City centre,Donauturm,Rudolfsheim-Funfhaus,70,Vienna,4.0,3.5,1020.0,22275,0,1.8,Hotel,1,3.9
+Austria,17.0,City centre,Donauturm,Rudolfsheim-Funfhaus,88,Vienna,3.5,,,22276,0,2.3,Apartment,1,2.2
+Austria,156.0,City centre,Donauturm,Rudolfsheim-Funfhaus,136,Vienna,3.0,4.5,1452.0,22277,0,1.9,Hotel,1,4.5
+Austria,81.0,City centre,Donauturm,Rudolfsheim-Funfhaus,80,Vienna,3.0,4.0,464.0,22279,0,2.1,Hotel,1,4.1
+Austria,40.0,City centre,Donauturm,Rudolfsheim-Funfhaus,131,Vienna,2.0,,,22280,0,2.3,Apartment,1,3.9
+Austria,54.0,City centre,Donauturm,Rudolfsheim-Funfhaus,81,Vienna,3.0,4.5,635.0,22281,0,2.4,Hotel,1,4.1
+Austria,13.0,City centre,Donauturm,Rudolfsheim-Funfhaus,133,Vienna,2.0,,,22284,0,2.5,Apartment,1,3.7
+Austria,225.0,City centre,Donauturm,Rudolfsheim-Funfhaus,66,Vienna,4.0,3.5,388.0,22285,0,3.6,Hotel,1,3.7
+Austria,144.0,City centre,Donauturm,Rudolfsheim-Funfhaus,77,Vienna,3.0,4.0,241.0,22286,0,2.8,Hotel,1,4.0
+Austria,2.0,City centre,Donauturm,Rudolfsheim-Funfhaus,121,Vienna,3.0,,,22287,0,1.8,Apartment,1,4.5
+Austria,525.0,City centre,Donauturm,Rudolfsheim-Funfhaus,69,Vienna,4.0,3.5,399.0,22288,0,2.1,Hotel,1,3.7
+Austria,113.0,City centre,Donauturm,Rudolfsheim-Funfhaus,83,Vienna,3.0,4.0,260.0,22289,0,2.1,Hotel,1,4.1
+Austria,10.0,City centre,Donauturm,Rudolfsheim-Funfhaus,53,Vienna,2.0,4.5,604.0,22290,0,1.9,Hostel,1,4.1
+Austria,2.0,City centre,Donauturm,Rudolfsheim-Funfhaus,133,Vienna,3.5,,,22291,0,2.7,Apartment,1,4.0
+Austria,78.0,City centre,Donauturm,Rudolfsheim-Funfhaus,77,Vienna,4.0,3.0,212.0,22293,0,1.8,Hotel,1,3.9
+Austria,69.0,City centre,Donauturm,Rudolfsheim-Funfhaus,48,Vienna,2.0,4.5,945.0,22294,0,2.0,Hostel,1,4.5
+Austria,314.0,City centre,Donauturm,Rudolfsheim-Funfhaus,142,Vienna,4.5,4.0,831.0,22295,0,2.9,Hotel,1,4.3
+Austria,134.0,City centre,Donauturm,Rudolfsheim-Funfhaus,121,Vienna,4.0,4.0,7.0,22296,0,1.7,Hotel,1,3.9
+Austria,38.0,City centre,Donauturm,Schonbrunn,68,Vienna,3.0,4.0,116.0,22299,0,3.6,Hotel,1,3.5
+Austria,65.0,City centre,Donauturm,Schonbrunn,63,Vienna,3.0,3.5,199.0,22300,0,2.0,Hotel,1,3.7
+Austria,92.0,City centre,Donauturm,Schonbrunn,101,Vienna,3.0,4.5,187.0,22301,0,2.1,Hotel,1,4.5
+Austria,100.0,City centre,Donauturm,Schonbrunn,75,Vienna,4.0,3.5,309.0,22302,0,2.6,Hotel,1,3.7
+Austria,910.0,City centre,Donauturm,Schonbrunn,156,Vienna,4.0,4.0,1122.0,22303,0,3.6,Hotel,1,4.3
+Austria,79.0,City centre,Donauturm,Schonbrunn,56,Vienna,3.0,4.0,177.0,22304,0,3.7,Hotel,1,3.5
+Austria,1541.0,City centre,Donauturm,Schonbrunn,82,Vienna,3.5,4.5,1245.0,22306,0,2.4,Hotel,1,4.5
+Austria,183.0,City centre,Donauturm,Schonbrunn,82,Vienna,4.0,4.0,1148.0,22307,0,2.6,Hotel,1,4.4
+Austria,30.0,City centre,Donauturm,Schonbrunn,106,Vienna,3.0,3.0,69.0,22309,0,4.1,Hotel,1,3.7
+Austria,24.0,City centre,Donauturm,Schonbrunn,85,Vienna,3.0,3.0,114.0,22310,0,3.1,Hotel,1,2.7
+Austria,18.0,City centre,Donauturm,Schonbrunn,83,Vienna,3.5,,,22311,0,2.6,Hotel,1,4.5
+Austria,140.0,City centre,Donauturm,Schonbrunn,92,Vienna,4.0,4.0,753.0,22312,0,2.9,Hotel,1,4.1
+Austria,14.0,City centre,Donauturm,Schonbrunn,169,Vienna,3.0,,,22314,0,2.3,Apartment,1,4.3
+Austria,8.0,City centre,Donauturm,Schonbrunn,77,Vienna,3.0,4.5,79.0,22315,0,2.7,Guest House,1,3.5
+Austria,333.0,City centre,Donauturm,Schwechat,92,Vienna,3.0,4.0,196.0,22317,0,11.0,Hotel,1,4.3
+Austria,923.0,City centre,Donauturm,Schwechat,166,Vienna,4.0,4.0,2400.0,22318,0,11.0,Hotel,1,4.0
+Austria,122.0,City centre,Donauturm,Schwechat,137,Vienna,4.0,3.5,191.0,22319,0,7.7,Hotel,1,3.7
+Austria,26.0,City centre,Donauturm,Schwechat,99,Vienna,3.0,3.5,191.0,22320,0,7.7,Hotel,1,3.7
+Austria,73.0,City centre,Donauturm,Schwechat,140,Vienna,4.0,4.0,127.0,22321,0,7.8,Hotel,1,3.5
+Austria,161.0,City centre,Donauturm,Schwechat,80,Vienna,3.0,3.5,247.0,22322,0,6.3,Hotel,1,3.2
+Austria,39.0,City centre,Donauturm,Schwechat,91,Vienna,3.0,3.5,161.0,22323,0,6.7,Hotel,1,3.5
+Austria,2.0,City centre,Donauturm,Vienna,130,Vienna,2.0,,,22325,0,2.6,Apartment,1,4.0
+Austria,16.0,City centre,Donauturm,Vienna,110,Vienna,3.0,4.5,29.0,22326,0,4.7,Pension,1,4.3
+Austria,124.0,City centre,Donauturm,Vienna,117,Vienna,4.0,4.0,192.0,22328,0,2.0,Hotel,1,4.0
+Austria,9.0,City centre,Donauturm,Vienna,106,Vienna,4.0,4.0,12.0,22330,0,5.4,Pension,1,4.1
+Austria,33.0,City centre,Donauturm,Vienna,66,Vienna,3.0,3.5,129.0,22331,0,3.9,Hotel,1,3.7
+Austria,16.0,City centre,Donauturm,Vienna,266,Vienna,5.0,5.0,2.0,22332,0,3.5,Apartment,1,4.6
+Austria,57.0,City centre,Donauturm,Vienna,58,Vienna,2.0,3.5,1051.0,22333,0,2.4,Hotel,1,3.5
+Austria,21.0,City centre,Donauturm,Vienna,81,Vienna,3.5,3.0,12.0,22334,0,3.7,Hotel,1,4.1
+Austria,160.0,City centre,Donauturm,Vienna,109,Vienna,4.0,3.5,386.0,22335,0,3.5,Hotel,1,4.0
+Austria,985.0,City centre,Donauturm,Vienna,114,Vienna,4.5,4.5,2454.0,22336,0,2.3,Hotel,1,4.3
+Austria,69.0,City centre,Donauturm,Vienna,125,Vienna,3.5,4.0,261.0,22337,0,2.3,Apart-hotel,1,4.4
+Austria,51.0,City centre,Donauturm,Vienna,69,Vienna,3.0,3.5,53.0,22338,0,1.7,Guest House,1,3.7
+Austria,72.0,City centre,Donauturm,Vienna,97,Vienna,4.0,4.0,277.0,22340,0,3.1,Hotel,1,4.0
+Austria,65.0,City centre,Donauturm,Vienna,74,Vienna,4.0,4.0,73.0,22341,0,4.8,Hotel,1,3.9
+Austria,147.0,City centre,Donauturm,Vienna,69,Vienna,4.0,3.5,320.0,22342,0,3.7,Hotel,1,3.7
+Austria,45.0,City centre,Donauturm,Vienna,83,Vienna,4.0,3.5,121.0,22343,0,3.9,Hotel,1,4.0
+Austria,50.0,City centre,Donauturm,Vienna,50,Vienna,3.0,4.0,12.0,22344,0,3.9,Hotel,1,3.9
+Austria,27.0,City centre,Donauturm,Vienna,130,Vienna,2.0,3.5,36.0,22345,0,4.7,Apartment,1,3.2
+Austria,2.0,City centre,Donauturm,Vienna,134,Vienna,3.0,,,22346,0,3.7,Apartment,1,3.0
+Austria,12.0,City centre,Donauturm,Vienna,134,Vienna,3.0,,,22347,0,6.9,Apartment,1,4.0
+Austria,26.0,City centre,Donauturm,Vienna,77,Vienna,3.0,3.5,21.0,22348,0,3.7,Hotel,1,4.0
+Austria,28.0,City centre,Donauturm,Vienna,102,Vienna,3.0,4.5,204.0,22349,0,5.3,Hotel,1,4.0
+Austria,30.0,City centre,Donauturm,Vienna,56,Vienna,3.5,3.5,88.0,22350,0,2.5,Apartment,1,3.2
+Austria,1.0,City centre,Donauturm,Vienna,185,Vienna,3.0,,,22351,0,2.7,Apartment,1,3.0
+Austria,12.0,City centre,Donauturm,Vienna,130,Vienna,3.0,4.0,20.0,22353,0,6.6,Hotel,1,4.4
+Austria,171.0,City centre,Donauturm,Vienna,78,Vienna,3.0,4.0,811.0,22354,0,3.2,Hotel,1,4.3
+Austria,34.0,City centre,Donauturm,Vienna,76,Vienna,3.0,4.0,61.0,22355,0,3.3,Hotel,1,3.7
+Austria,69.0,City centre,Donauturm,Vienna,68,Vienna,4.0,3.5,87.0,22356,0,4.5,Hotel,1,4.0
+Austria,84.0,City centre,Donauturm,Vienna,116,Vienna,4.0,4.0,493.0,22358,0,2.7,Hotel,1,4.0
+Austria,212.0,City centre,Donauturm,Vienna,172,Vienna,4.0,4.0,401.0,22359,0,2.2,Hotel,1,4.1
+Austria,15.0,City centre,Donauturm,Vienna,80,Vienna,2.0,3.5,187.0,22361,0,5.2,Hostel,1,3.2
+Austria,12.0,City centre,Donauturm,Vienna,87,Vienna,3.0,4.0,30.0,22362,0,2.4,Hotel,1,4.0
+Austria,89.0,City centre,Donauturm,Vienna,90,Vienna,3.0,3.0,78.0,22363,0,4.6,Hotel,1,3.0
+Austria,74.0,City centre,Donauturm,Vienna,100,Vienna,3.5,4.0,282.0,22364,0,2.7,Hotel,1,4.4
+Austria,3.0,City centre,Donauturm,Vienna,173,Vienna,2.0,,,22365,0,3.1,Apartment,1,3.2
+Austria,44.0,City centre,Donauturm,Vienna,92,Vienna,2.0,3.5,35.0,22366,0,2.5,Pension,1,3.2
+Austria,6.0,City centre,Donauturm,Vienna,133,Vienna,2.0,,,22369,0,2.6,Apartment,1,3.7
+Austria,3.0,City centre,Donauturm,Vienna,134,Vienna,3.5,,,22370,0,5.1,Apartment,1,3.2
+Austria,2.0,City centre,Donauturm,Vienna,209,Vienna,3.0,,,22371,0,5.2,Apartment,1,4.0
+Austria,44.0,City centre,Donauturm,Vienna,66,Vienna,3.0,,,22372,0,1.6,Apartment,1,4.4
+Austria,35.0,City centre,Donauturm,Vienna,114,Vienna,4.0,5.0,12.0,22373,0,1.4,Apartment,1,4.9
+Austria,38.0,City centre,Donauturm,Voesendorf,89,Vienna,4.0,3.0,73.0,22377,0,7.0,Hotel,1,3.5
+Austria,115.0,City centre,Donauturm,Voesendorf,92,Vienna,4.0,3.5,545.0,22378,0,7.1,Hotel,1,3.7
+Austria,186.0,City centre,Donauturm,Wahring,84,Vienna,3.0,4.5,982.0,22380,0,1.9,Hotel,1,4.4
+Austria,27.0,City centre,Donauturm,Wahring,124,Vienna,2.0,2.5,26.0,22381,0,1.8,Apartment,1,3.5
+Austria,45.0,City centre,Donauturm,Wahring,185,Vienna,4.0,4.0,142.0,22382,0,2.1,Hotel,1,4.4
+Austria,168.0,City centre,Donauturm,Wahring,85,Vienna,4.0,3.5,553.0,22384,0,3.0,Hotel,1,4.0
+Austria,1.0,City centre,Donauturm,Wahring,133,Vienna,2.0,,,22385,0,1.9,Apartment,1,4.0
+Austria,77.0,City centre,Donauturm,Wieden,110,Vienna,3.5,4.5,116.0,22386,0,1.6,Hotel,1,4.5
+Austria,72.0,City centre,Donauturm,Wieden,86,Vienna,3.0,4.0,89.0,22387,0,1.6,Hotel,1,4.3
+Austria,158.0,City centre,Donauturm,Wieden,118,Vienna,4.0,4.0,436.0,22388,0,1.0,Hotel,1,4.1
+Austria,15.0,City centre,Donauturm,Wieden,126,Vienna,3.5,,,22389,0,0.9,Hotel,1,4.5
+Austria,291.0,City centre,Donauturm,Wieden,92,Vienna,3.0,4.0,688.0,22390,0,1.3,Hotel,1,4.3
+Austria,317.0,City centre,Donauturm,Wieden,197,Vienna,4.0,4.5,1840.0,22391,0,0.8,Hotel,1,4.8
+Austria,193.0,City centre,Donauturm,Wieden,39,Vienna,2.5,3.5,69.0,22393,0,1.3,Guest House,1,3.5
+Austria,280.0,City centre,Donauturm,Wieden,135,Vienna,4.0,4.0,1121.0,22394,0,1.2,Hotel,1,4.5
+Austria,47.0,City centre,Donauturm,Wieden,125,Vienna,4.0,4.5,229.0,22395,0,1.2,Hotel,1,4.4
+Austria,7.0,City centre,Donauturm,Wieden,67,Vienna,2.0,4.5,1583.0,22396,0,1.0,Hostel,1,3.4
+Austria,125.0,City centre,Donauturm,Wieden,134,Vienna,4.0,4.5,615.0,22397,0,0.8,Hotel,1,4.5
+Austria,34.0,City centre,Donauturm,Wieden,91,Vienna,3.0,3.5,383.0,22398,0,0.9,Hotel,1,3.5
+Austria,112.0,City centre,Donauturm,Wieden,110,Vienna,3.0,4.0,263.0,22399,0,0.8,Hotel,1,3.9
+Austria,1.0,City centre,Donauturm,Wieden,84,Vienna,3.5,,,22400,0,0.9,Apartment,1,5.0
+Austria,77.0,City centre,Donauturm,Wieden,100,Vienna,3.0,4.0,149.0,22401,0,1.2,Hotel,1,4.0
+Austria,572.0,City centre,Donauturm,Wieden,95,Vienna,4.0,4.0,1003.0,22402,0,1.5,Hotel,1,4.1
+Austria,53.0,City centre,Donauturm,Wieden,73,Vienna,3.0,3.0,293.0,22403,0,1.5,Hotel,1,3.4
+Austria,2.0,City centre,Donauturm,Wieden,109,Vienna,3.0,3.0,14.0,22404,0,1.5,Apartment,1,5.0
+Austria,145.0,City centre,Donauturm,Wieden,185,Vienna,5.0,4.0,740.0,22406,0,0.8,Hotel,1,4.3
+Austria,112.0,City centre,Donauturm,Wieden,100,Vienna,4.0,4.5,1006.0,22407,0,1.0,Hotel,1,4.4
+Austria,169.0,City centre,Donauturm,Wieden,58,Vienna,3.0,3.0,135.0,22408,0,1.4,Hotel,1,3.2
+Austria,80.0,City centre,Donauturm,Wieden,110,Vienna,3.5,,,22409,0,0.7,Apartment,1,4.0
